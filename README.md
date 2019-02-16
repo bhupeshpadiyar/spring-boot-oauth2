@@ -44,6 +44,8 @@ Below are the screen shots to test the application in Postman.
 
 ##Generate AuthToken:
 
+![alt text](spring-boot-oauth2/src/main/resources/static/images/client.png)
+
 
 ##Generate Access The Resource with the generated auth_token:
 
