@@ -50,7 +50,7 @@ Below are the screen shots to test the application in Postman.
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authorize.png)
 
 
-## Generate Access The Resource with the generated auth_token:
+## Access The Resource with the generated auth_token:
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authenticate.png)
 
 
