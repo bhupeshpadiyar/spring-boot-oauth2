@@ -44,10 +44,13 @@ Below are the screen shots to test the application in Postman.
 
 ##Generate AuthToken:
 
-![alt text](spring-boot-oauth2/src/main/resources/static/images/client.png)
+![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/client.png)
+
+![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authorize.png)
 
 
 ##Generate Access The Resource with the generated auth_token:
+![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authenticate.png)
 
 
 
