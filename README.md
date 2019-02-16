@@ -39,17 +39,18 @@ Spring Boot Restfull Application secured with spring boot Oauth2 protocol
       mvn spring-boot:run
       ```
       
-#Testing the Application
+# Steps To test the project
 Below are the screen shots to test the application in Postman.
 
-##Generate AuthToken:
+## Generate AuthToken:
 
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/client.png)
 
+##
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authorize.png)
 
 
-##Generate Access The Resource with the generated auth_token:
+## Generate Access The Resource with the generated auth_token:
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authenticate.png)
 
 
