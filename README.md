@@ -1,6 +1,25 @@
 # spring-boot-oauth2
 Spring Boot Restfull Application secured with spring boot Oauth2 protocol
 
+## Prerequisite
+1. JDK 1.8
+2. Database MySql- 5+ 
+3. Apache Maven-3
+
+## Application Stracture
+There are four main entities involve in Oauth2 Authentication  
+1. Resource Server - The server that containing the protected resource.
+2. Authorization Server - To authorize the request
+3. Resource Owner - You or the user that owns the resource.
+4. Client - The client that want to access the resource.
+
+
+Below is the diagram that shows the Oauth2 authentication flow.
+
+```
+![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/oauth2_authentication_flow.png)
+```
+
 ## Steps to create the database to run this project
 1. Create a database schema with name users
      ```
@@ -43,15 +62,17 @@ Spring Boot Restfull Application secured with spring boot Oauth2 protocol
 Below are the screen shots to test the application in Postman.
 
 ## Generate AuthToken:
-
+```
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/client.png)
-
+```
 ##
+```
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authorize.png)
-
+```
 
 ## Access The Resource with the generated auth_token:
+```
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authenticate.png)
-
+```
 
 
