@@ -16,9 +16,9 @@ There are four main entities involve in Oauth2 Authentication
 
 Below is the diagram that shows the Oauth2 authentication flow.
 
-```
+
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/oauth2_authentication_flow.png)
-```
+
 
 ## Steps to create the database to run this project
 1. Create a database schema with name users
@@ -62,17 +62,17 @@ Below is the diagram that shows the Oauth2 authentication flow.
 Below are the screen shots to test the application in Postman.
 
 ## Generate AuthToken:
-```
+
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/client.png)
-```
+
 ##
-```
+
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authorize.png)
-```
+
 
 ## Access The Resource with the generated auth_token:
-```
+
 ![alt text](https://raw.githubusercontent.com/bhupeshpadiyar/spring-boot-oauth2/master/src/main/resources/static/images/authenticate.png)
-```
+
 
 
