@@ -77,4 +77,4 @@ Below are the screen shots to test the application in Postman.
 
 ## Authors
 
-* **Bhupesh Singh Padiyar** - *Initial work* - [PurpleBooth](https://github.com/bhupeshpadiyar)
+* **Bhupesh Singh Padiyar** - *Initial work* - [Bhupesh Singh Padiyar](https://github.com/bhupeshpadiyar)
